@@ -28,10 +28,6 @@ Welcome to my GitHub profile. I'm passionate about technology, coding, and conti
   ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## GitHub Stats
-
-![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonathank&show_icons=true&theme=radical)
-
 ## Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathank&layout=compact&theme=radical)
